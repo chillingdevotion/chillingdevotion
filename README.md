@@ -9,13 +9,16 @@
 ҂ <a href="https://rentry.co/slashnkill" target="_blank">rentry</a> , <a href="https://pronouns.cc/@IMSOCOLD" target="_blank">prnscc</a> , <a href="https://github.com/disorder66" target="_blank">wife ♡</a> ҂
 </p>
 
-<div align="center">
-
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=rapateradance&count=1&width=310&radius=7&header=0&logo=0&profile=off&username=0&avatar=0&footer=stats&loved=off&bg_color=000000&text_color=5ec836&accent_color=5ec836&loved_color=5ec836)
-
-
-</div>
+<p align="center">
+<img src="https://i.imgflip.com/2rswjb.gif"> 
+</p>
 
 <p align="center">
 <img src="https://64.media.tumblr.com/8f4f03a6b3e64cfdf9a3af35dff97f5f/d8ebd8615fe3279a-1a/s250x400/047529f8e816872b1c85fdf1bc7b79a6fcfc09e5.gifv"> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
 </p>
