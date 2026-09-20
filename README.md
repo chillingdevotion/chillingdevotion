@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=rapateradance&count=1&width=360&radius=7&header=0&logo=0&profile=off&username=0&avatar=0&footer=stats&loved=off&bg_color=000000&text_color=5ec836&accent_color=5ec836&loved_color=5ec836)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=rapateradance&count=1&width=310&radius=7&header=0&logo=0&profile=off&username=0&avatar=0&footer=stats&loved=off&bg_color=000000&text_color=5ec836&accent_color=5ec836&loved_color=5ec836)
 
 
 </div>
