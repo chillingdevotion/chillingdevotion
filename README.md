@@ -9,10 +9,6 @@
 ҂ <a href="https://rentry.co/slashnkill" target="_blank">rentry</a> , <a href="https://pronouns.cc/@IMSOCOLD" target="_blank">prnscc</a> , <a href="https://github.com/disorder66" target="_blank">wife ♡</a> ҂
 </p>
 
-<p align="center">
-<img src="https://i.imgflip.com/2rswjb.gif"> 
-</p>
-
 <div align="center">
 
 ![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=rapateradance&count=1&width=360&radius=7&header=0&logo=0&profile=off&username=0&avatar=0&footer=stats&loved=off&bg_color=000000&text_color=5ec836&accent_color=5ec836&loved_color=5ec836)
