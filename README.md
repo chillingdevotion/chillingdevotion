@@ -34,11 +34,11 @@
 </p>
 
 <p align="center">
-<img src="https://s3.ezgif.com/tmp/ezgif-309e6897bddca3ec.gif"> 
+<img src="https://i.ibb.co/qM0MGj3z/herbreal.gif"> 
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=09F729AE&width=435&lines=take+the+green+herb%3F+%E2%96%B6%EF%B8%8Eyes..+%E2%96%B7no..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=09F729AE&width=435&lines=take+the+green+herb%3F+%E2%96%B6%EF%B8%8Eyes..+%E2%96%B7no..)](https://git.io/typing-svg)
 
 </div>
