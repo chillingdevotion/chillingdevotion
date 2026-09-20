@@ -34,5 +34,11 @@
 </p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/ba92adf516ad4ca0bde80ed58eef8ae7/4d73282282112336-13/s100x200/067e4c42e365dbdd209b3b6aad92ef8d10e83333.gifv"> 
+<img src="https://s3.ezgif.com/tmp/ezgif-309e6897bddca3ec.gif"> 
 </p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=09F729AE&width=435&lines=take+the+green+herb%3F+%E2%96%B6%EF%B8%8Eyes..+%E2%96%B7no..)](https://git.io/typing-svg)
+
+</div>
