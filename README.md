@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=chillingdevotion&style=plastic&label=zombies&color=brightgreen) ⋆˚࿔
+![](https://64.media.tumblr.com/318a94ab1a29614588f970865a3644bf/65ebec8c5d63c44e-91/s75x75_c1/d4588f7ed896c07ac2e554f62f06c9fe2c4cf1c9.gifv) ![](https://komarev.com/ghpvc/?username=chillingdevotion&style=plastic&label=zombies&color=brightgreen) ⋆˚࿔
 
 </div>
 
