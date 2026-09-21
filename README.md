@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/8f4f03a6b3e64cfdf9a3af35dff97f5f/d8ebd8615fe3279a-1a/s250x400/047529f8e816872b1c85fdf1bc7b79a6fcfc09e5.gifv"> 
+<img src="https://64.media.tumblr.com/8f4f03a6b3e64cfdf9a3af35dff97f5f/d8ebd8615fe3279a-1a/s250x400/047529f8e816872b1c85fdf1bc7b79a6fcfc09e5.gifv"> <img src="https://64.media.tumblr.com/6d27dc173e1583187b53c4d2209869ab/d8ebd8615fe3279a-80/s250x400/afb9d3711ae761016eb00d8114aed519c16a613b.gifv">
 </p>
 
 <p align="center">
