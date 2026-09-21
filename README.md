@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgflip.com/2rswjb.gif"> 
+<img src="https://i.ibb.co/LD9HHznL/statusreal.gif"> 
 </p>
 
 <p align="center">
