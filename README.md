@@ -22,9 +22,3 @@
   </a>
 </p>
 
-<div align="center">
-<details>
-  <summary>$\color{green}\text{(っ҂° ཀ•)っ⊹ ꉂ`☢︎.}$</summary>
-  pt's bryan hodukaich , #1 fan, etc etc.
-</details>
-</div>
