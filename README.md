@@ -16,9 +16,15 @@
 <p align="center">
 <img src="https://64.media.tumblr.com/8f4f03a6b3e64cfdf9a3af35dff97f5f/d8ebd8615fe3279a-1a/s250x400/047529f8e816872b1c85fdf1bc7b79a6fcfc09e5.gifv"> <img src="https://64.media.tumblr.com/91cd409b8c2d7dcc80b50ee8c992b436/4982081f207a87ae-f2/s250x400/b0713f55de23fc19d1781f56201b304cb3e1c009.gifv">
 </p>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
+<div align="center">
+<details>
+  <summary>$\color{green}\text{(っ҂° ཀ•)っ⊹ ꉂ`☢︎.}$</summary>
+  pt's bryan hodukaich , #1 fan, etc etc.
+</details>
+</div>
