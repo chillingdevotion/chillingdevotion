@@ -7,7 +7,7 @@
 
 
 <p align="center">
-҂ <a href="https://rentry.co/slashnkill" target="_blank">rentry</a> , <a href="https://pronouns.cc/@IMSOCOLD" target="_blank">prnscc</a> , <a href="https://github.com/disorder66" target="_blank">wife ♡</a> ҂
+҂ <a href="https://rentry.co/slashnkill" target="_blank">rentry</a> , <a href="https://en.pronouns.page/@DRYROTLACRY" target="_blank">prnscc</a> , <a href="https://github.com/disorder66" target="_blank">wife ♡</a> ҂
 </p>
 
 <p align="center">
