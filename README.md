@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://64.media.tumblr.com/318a94ab1a29614588f970865a3644bf/65ebec8c5d63c44e-91/s75x75_c1/d4588f7ed896c07ac2e554f62f06c9fe2c4cf1c9.gifv) ![](https://views-counter.vercel.app/badge?pageId=chillingdevotion&leftColor=39ac2a&rightColor=4a4f4b&type=total&label=zombies&style=none) ⋆˚࿔
+![](https://64.media.tumblr.com/318a94ab1a29614588f970865a3644bf/65ebec8c5d63c44e-91/s75x75_c1/d4588f7ed896c07ac2e554f62f06c9fe2c4cf1c9.gifv) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=09F729AE&center=true&width=138&height=18&lines=hey.+no+sweat.)](https://git.io/typing-svg) ⋆˚࿔
 
 </div>
 
