@@ -1,5 +1,9 @@
 <div align="center">
 
+ ![](https://komarev.com/ghpvc/?username=chillingdevotion&color=red&style=plastic&label=take_it_easy_✩彡)
+ <div/>
+<div align="center">
+
 ![](https://www.fightersgeneration.com/characters2/ken-intro2.gif) ‎‎ ![](https://www.fightersgeneration.com/characters3/ryu-win-ts.gif)
 
 
