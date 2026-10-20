@@ -1,4 +1,4 @@
-<img src="https://www.fightersgeneration.com/characters/vega-taunt1.gif" style="width: 230px;" align="left">
+<img src="https://www.fightersgeneration.com/characters/vega-maskremove.gif" style="width: 230px;" align="left">
 <br><b><ins>LAW</ins> or VEGA ☆ HE/THEY ☆ 23, <ins>MARRIED.</ins></b>
 <br>
 <p>
