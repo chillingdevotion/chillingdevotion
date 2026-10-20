@@ -1,6 +1,6 @@
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=chillingdevotion&color=red&style=plastic&label=take_it_easy_✩彡)
+![](https://64.media.tumblr.com/9adfb783125c28e9694cb7e7344eded3/cbe6cec397c53a4d-c7/s75x75_c1/38fd1abd6f075196a572ff4e8e2466d220ffa5fe.gifv) ![](https://komarev.com/ghpvc/?username=chillingdevotion&color=red&style=plastic&label=take_it_easy_✩彡) ![](https://64.media.tumblr.com/2969aba6dbd5859f595882f26e933b08/cbe6cec397c53a4d-f6/s75x75_c1/cce154bcaafc55dd69db420e8c370e94959d0119.gifv)
  <div/>
 <div align="center">
 
