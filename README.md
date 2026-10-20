@@ -12,4 +12,4 @@
   <br>stardew valley, watchdogs,  + many more others.
   </sub>
   </p>
-<p><sup><a href="https://rentry.co/slashnkill">rentry</a> ★ <a href="milligramsmile.straw.page">strawpage</a> ★ <a href="pronouns.cc/@IMSOCOLD">pronouns.cc</a></sup></p>
+<p><sup><a href="https://rentry.co/slashnkill">rentry</a> ★ <a href="milligramsmile.straw.page">strawpage</a> ★ <a href="pronouns.cc/@IMSOCOLD">pronouns.cc</a> ★ <a href="https://github.com/woundfucking">husband ♡</a></sup></p>
