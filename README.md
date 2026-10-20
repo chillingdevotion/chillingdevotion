@@ -1,7 +1,7 @@
 <img src="https://www.fightersgeneration.com/characters/vega-maskremove.gif" style="width: 230px;" align="left">
 <p align="left">
-<img src="https://64.media.tumblr.com/28ddc5539a83ab30e2156475ba807c7a/704f4ace9de71c4b-71/s100x200/fd70f3c7245eaeb043cfd76517ddb2e7c68f0a08.pnj"> <img src="https://64.media.tumblr.com/78f8c35c09d1fc437367ce27706ec123/704f4ace9de71c4b-54/s100x200/e9fca207a02b069083f925a5b15ace34aff0eadf.pnj">
-<img src="https://64.media.tumblr.com/7ac328204395dc076221475d3af8ecc2/704f4ace9de71c4b-cf/s100x200/4a7541ccbef5b285823491aaed29230c6f49aa9f.pnj"</p>
+<img src="https://sewerwolfx.neocities.org/graphics/stamps/17misc/4.gif"> <img src="https://64.media.tumblr.com/a210fb91cd82a0e4f000592c98e07d4e/cae7dc68f404acce-33/s250x400/d49ca6e833445a1fc41a30774631b97532d1cbc7.gifv">
+<img src="https://64.media.tumblr.com/27f3e82b07e45768dfff22738f5ae57f/faec3b36a033d591-2c/s100x200/d2d483c6710f0e1f024d842009233d2d9c76530d.pnj"</p>
 <br><b><ins>LAW</ins> or VEGA ☆ HE/THEY ☆ 23, <ins>MARRIED.</ins></b>
 <br>
 <p>
