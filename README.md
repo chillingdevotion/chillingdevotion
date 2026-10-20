@@ -11,7 +11,7 @@
   <sub>
   i love; street fighter, resident evil, silent hill, horror, 
   <br>niche slashers of many, visual novels, hannibal, and
-  <br>stardew valley, watchdogs,  + many more others.
+  <br>stardew valley, watchdogs,  + many more others. ✨
   </sub>
   </p>
 <p><sup><a href="https://rentry.co/slashnkill">rentry</a> ★ <a href="https://milligramsmile.straw.page">strawpage</a> ★ <a href="https://pronouns.cc/@IMSOCOLD">pronouns.cc</a> ★ <a href="https://github.com/woundfucking">husband ♡</a></sup></p>
