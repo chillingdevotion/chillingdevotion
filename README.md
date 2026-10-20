@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 <img src="https://www.fightersgeneration.com/characters/vega-maskremove.gif" style="width: 230px;" align="left">
 <br><b><ins>LAW</ins> or VEGA ☆ HE/THEY ☆ 23, <ins>MARRIED.</ins></b>
 <br>
@@ -12,8 +17,3 @@
   </sub>
   </p>
 <p><sup><a href="https://rentry.co/slashnkill">rentry</a> ★ <a href="milligramsmile.straw.page">strawpage</a> ★ <a href="pronouns.cc/@IMSOCOLD">pronouns.cc</a></sup></p>
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
