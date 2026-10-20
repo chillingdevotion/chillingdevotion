@@ -8,7 +8,7 @@
   <sub>
   i love; street fighter, resident evil, silent hill, horror, 
   <br>niche slashers of many, visual novels, hannibal, and
-  <br>taxideremy, wild-life + many more.
+  <br>stardew valley, watchdogs,  + many more others.
   </sub>
   </p>
 <p><sup><a href="https://rentry.co/slashnkill">rentry</a> ★ <a href="milligramsmile.straw.page">strawpage</a> ★ <a href="pronouns.cc/@IMSOCOLD">pronouns.cc</a></sup></p>
