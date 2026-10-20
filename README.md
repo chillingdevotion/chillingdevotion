@@ -1,24 +1,3 @@
-<div align="center">
+<img align="left" width="300" src="https://www.fightersgeneration.com/characters/vega-intro.gif" hspace="20">
 
-![](https://64.media.tumblr.com/318a94ab1a29614588f970865a3644bf/65ebec8c5d63c44e-91/s75x75_c1/d4588f7ed896c07ac2e554f62f06c9fe2c4cf1c9.gifv) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=09F729AE&center=true&width=138&height=18&lines=hey.+no+sweat.)](https://git.io/typing-svg) ⋆˚࿔
-
-</div>
-
-
-<p align="center">
-҂ <a href="https://rentry.co/slashnkill" target="_blank">rentry</a> , <a href="https://pronouns.cc/@IMSOCOLD" target="_blank">prnscc</a> , <a href="https://github.com/woundfucking" target="_blank">wife ♡</a> ҂
-</p>
-
-<p align="center">
-<img src="https://i.ibb.co/LD9HHznL/statusreal.gif"> 
-</p>
-
-<p align="center">
-<img src="https://64.media.tumblr.com/8f4f03a6b3e64cfdf9a3af35dff97f5f/d8ebd8615fe3279a-1a/s250x400/047529f8e816872b1c85fdf1bc7b79a6fcfc09e5.gifv"> <img src="https://64.media.tumblr.com/91cd409b8c2d7dcc80b50ee8c992b436/4982081f207a87ae-f2/s250x400/b0713f55de23fc19d1781f56201b304cb3e1c009.gifv">
-</p>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
+Your text goes right here. Since the GIF is aligned to the left, this paragraph will automatically wrap around the right side of the image. You can write as much text as you need to fill out the section.
