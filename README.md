@@ -5,8 +5,4 @@
 
 ‎ ‎‎‎ ‎ ‎‎ ‎[**rentry**](https://rentry.co/slashnkill) ‎‎   ‎‎ ‎‎‎  ‎‎ ‎‎‎‎ ‎‎ [**strawpage**](https://https://milligramsmile.straw.page/)‎‎‎‎ ‎‎ ‎‎ ‎ ‎‎ ‎ ‎[**prns.cc**](https://pronouns.cc/@IMSOCOLD)
 ‎ <div/>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spookyjim890&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=dbdbdb&bar_color_cover=false" width="275">
-  </a>
-</p>
+ <a href="https://www.last.fm/user/rapateradance"><img align="center" src="https://lastfm-recently-played.vercel.app/api?user=rapateradance&footer_style=compact_stats&count=1&width=400&loved=true&header_style=none&bg_color=00000000" alt="what"></a> 
